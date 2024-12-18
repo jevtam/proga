@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matve\\Downloads\\allMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\sortform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\goldensectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\goldensectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\coordinatedescentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\coordinatedescentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|c:\\users\\matve\\downloads\\allmath\\allmath\\integralmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\integralmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|c:\\users\\matve\\downloads\\allmath\\allmath\\slau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\slau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\dichotomyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\dichotomyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|C:\\Users\\matve\\Downloads\\allMath\\allmath\\newtonmethodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9714E1-2834-432C-A9DE-E9F9DCFD3B97}|allMath\\allMath.csproj|solutionrelative:allmath\\newtonmethodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SLAU.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\SLAU.cs",
+              "RelativeDocumentMoniker": "allMath\\SLAU.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\SLAU.cs",
+              "RelativeToolTip": "allMath\\SLAU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:21:56.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntegralMethods.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\IntegralMethods.cs",
+              "RelativeDocumentMoniker": "allMath\\IntegralMethods.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\IntegralMethods.cs",
+              "RelativeToolTip": "allMath\\IntegralMethods.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:55:57.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewtonMethodForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\NewtonMethodForm.cs",
+              "RelativeDocumentMoniker": "allMath\\NewtonMethodForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\NewtonMethodForm.cs",
+              "RelativeToolTip": "allMath\\NewtonMethodForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:14:55.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoordinateDescentForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\CoordinateDescentForm.cs",
+              "RelativeDocumentMoniker": "allMath\\CoordinateDescentForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\CoordinateDescentForm.cs",
+              "RelativeToolTip": "allMath\\CoordinateDescentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:23:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\SortForm.cs",
+              "RelativeDocumentMoniker": "allMath\\SortForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\SortForm.cs",
+              "RelativeToolTip": "allMath\\SortForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:27:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoldenSectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\GoldenSectionForm.cs",
+              "RelativeDocumentMoniker": "allMath\\GoldenSectionForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\GoldenSectionForm.cs",
+              "RelativeToolTip": "allMath\\GoldenSectionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:45:46.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DichotomyForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\DichotomyForm.cs",
+              "RelativeDocumentMoniker": "allMath\\DichotomyForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\DichotomyForm.cs",
+              "RelativeToolTip": "allMath\\DichotomyForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:48:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\MainForm.cs",
+              "RelativeDocumentMoniker": "allMath\\MainForm.cs",
+              "ToolTip": "C:\\Users\\matve\\Downloads\\allMath\\allMath\\MainForm.cs",
+              "RelativeToolTip": "allMath\\MainForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:28:19.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
